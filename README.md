@@ -1,2 +1,3 @@
 # zs-svc-communicable-disease
-ZarishSphere clinical microservice: communicable-disease
+
+Generated directly from internal PRD specification.
